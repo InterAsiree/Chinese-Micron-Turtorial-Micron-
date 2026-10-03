@@ -681,7 +681,7 @@ micron中使用标签格式化文本。有些标签可以在文本中的任何�
 
 译者：Inter-Asiree
 
-该翻译已上传至仓库：(还没有)
+该翻译已上传至仓库：https://github.com/InterAsiree/Chinese-Micron-Turtorial-Micron-
 
 >>翻译事项
 
@@ -717,6 +717,6 @@ Thanks to `_`[RFnexus`https://github.com/RFnexus]`_ for the `_`[micron-parser-js
 
 原文为 `*Unlicense`* 许可
 
-译文不沿用该许可证，我要使用 [`*`!WTFPL`!`* 许可证]!
+译文不沿用该许可证，我要使用 `[`*`!WTFPL`!`* 许可证`https://github.com/InterAsiree/Chinese-Micron-Turtorial-Micron-/LICENSE]!
 
 -
